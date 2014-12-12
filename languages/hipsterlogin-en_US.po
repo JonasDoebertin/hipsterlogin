@@ -1,0 +1,421 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hipster Login\n"
+"POT-Creation-Date: 2014-10-07 14:50+0100\n"
+"PO-Revision-Date: 2014-10-07 14:51+0100\n"
+"Last-Translator: Jonas Döbertin <hallo@jonasdoebertin.net>\n"
+"Language-Team: Jonas Döbertin <hello@jd-powered.net>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../vendor\n"
+
+#: ../classes/Helpers/Updater.php:84
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: ../classes/Helpers/Updater.php:90
+msgid "An unknown error occurred"
+msgstr ""
+
+#: ../classes/Plugin.php:159
+msgid "Customize Hipster Login"
+msgstr ""
+
+#: ../classes/Plugin.php:159
+msgid "Settings"
+msgstr ""
+
+#: ../classes/Redux/Config.php:75 ../classes/Redux/Config.php:83
+#: ../views/notices/framework.php:7 ../views/notices/legacy.php:7
+msgid "Hipster Login"
+msgstr ""
+
+#: ../classes/Redux/Config.php:84
+msgid "Hipster Login Settings"
+msgstr ""
+
+#: ../classes/Redux/Config.php:181
+msgid "Automatic Updates"
+msgstr ""
+
+#: ../classes/Redux/Config.php:182
+msgid "Set up automatic plugin updates."
+msgstr ""
+
+#: ../classes/Redux/Config.php:191
+msgid "Premade Designs"
+msgstr ""
+
+#: ../classes/Redux/Config.php:192
+msgid ""
+"To give you a little jumpstart with &raquo; Hipster Login&laquo; we've "
+"prepared some premade designs for you. Choose the one you like most as a "
+"base and customize it to your needs afterwards."
+msgstr ""
+
+#: ../classes/Redux/Config.php:201
+msgid "General Options"
+msgstr ""
+
+#: ../classes/Redux/Config.php:202
+msgid "Customize the look and feel of your new login page."
+msgstr ""
+
+#: ../classes/Redux/Config.php:211
+msgid "Logo Options"
+msgstr ""
+
+#: ../classes/Redux/Config.php:212
+msgid "Customize the default WordPress logo on top of the pages."
+msgstr ""
+
+#: ../classes/Redux/Config.php:221
+msgid "Custom CSS"
+msgstr ""
+
+#: ../classes/Redux/Config.php:222
+msgid "Add custom CSS rules to your new login page."
+msgstr ""
+
+#: ../classes/Redux/Config.php:231 ../classes/Redux/Config.php:544
+msgid "Import / Export"
+msgstr ""
+
+#: ../classes/Redux/Config.php:232
+msgid ""
+"Exporting your &raquo;Hipster Login&laquo; options is a convenient way to "
+"create a backup of your settings. You can also use an export of your "
+"settings to transfer your login page style to another WordPress site using "
+"&raquo;Hipster Login&laquo;."
+msgstr ""
+
+#: ../classes/Redux/Config.php:241
+msgid "Documentation"
+msgstr ""
+
+#: ../classes/Redux/Config.php:242
+msgid "Everybody needs some basic information to get started."
+msgstr ""
+
+#: ../classes/Redux/Config.php:251
+msgid "Credits"
+msgstr ""
+
+#: ../classes/Redux/Config.php:252
+msgid ""
+"&raquo;Hipster Login&laquo; makes use of some awesome work created by "
+"others. All these fine people deserve to be mentioned. So let's go ahead!"
+msgstr ""
+
+#: ../classes/Redux/Config.php:272
+msgid "Enable Automatic Updates"
+msgstr ""
+
+#: ../classes/Redux/Config.php:273
+msgid ""
+"If you enable this setting, &raquo;Hipster Login&laquo; will get automatic "
+"plugin updates, just like any other WordPress plugin. However, please make "
+"sure to fill in your Envato Purchase Code below."
+msgstr ""
+
+#: ../classes/Redux/Config.php:276
+msgid "On"
+msgstr ""
+
+#: ../classes/Redux/Config.php:277
+msgid "Off"
+msgstr ""
+
+#: ../classes/Redux/Config.php:286
+msgid "Envato Purchase Code"
+msgstr ""
+
+#: ../classes/Redux/Config.php:287
+msgid "Subtitle"
+msgstr ""
+
+#: ../classes/Redux/Config.php:288
+msgid "Where can I find my ourchase code?"
+msgstr ""
+
+#: ../classes/Redux/Config.php:305
+msgid "Premade Design"
+msgstr ""
+
+#: ../classes/Redux/Config.php:306
+msgid "Choose one of the premade designs here or create your own style."
+msgstr ""
+
+#: ../classes/Redux/Config.php:312
+msgid "Starry Night"
+msgstr ""
+
+#: ../classes/Redux/Config.php:317
+msgid "Mountain"
+msgstr ""
+
+#: ../classes/Redux/Config.php:322
+msgid "Corn"
+msgstr ""
+
+#: ../classes/Redux/Config.php:327
+msgid "Lake"
+msgstr ""
+
+#: ../classes/Redux/Config.php:349
+msgid "Typography"
+msgstr ""
+
+#: ../classes/Redux/Config.php:350
+msgid ""
+"Customize the font that will be used throughout the &raquo;Login&laquo;, "
+"&raquo;Register&laquo; and &raquo;Forgot Password&laquo; pages. If you "
+"choose a Google Webfont, the required files will be loaded automatically for "
+"you."
+msgstr ""
+
+#: ../classes/Redux/Config.php:369
+msgid "Highlight Color"
+msgstr ""
+
+#: ../classes/Redux/Config.php:370
+msgid ""
+"This affects the background of focused form field aswell as the &raquo;"
+"Login&laquo; & &raquo;Remember Me&laquo; buttons."
+msgstr ""
+
+#: ../classes/Redux/Config.php:391
+msgid "Background Image"
+msgstr ""
+
+#: ../classes/Redux/Config.php:392
+msgid ""
+"Option 1: Select one of these awesome premade full screen background images "
+"from various websites. Full credits can be found by visiting the &raquo;"
+"Credits&laquo; tab."
+msgstr ""
+
+#: ../classes/Redux/Config.php:457
+msgid "Custom Background Image"
+msgstr ""
+
+#: ../classes/Redux/Config.php:458
+msgid ""
+"Option 2: Choose or upload your own custom background image. Please note: "
+"You want to choose an image with a relativly large size, as it will be "
+"streched to full background size. For best looking results, choose an image "
+"of about 2560 x 1440 pixels."
+msgstr ""
+
+#: ../classes/Redux/Config.php:462
+msgid "No custom background selected"
+msgstr ""
+
+#: ../classes/Redux/Config.php:465
+msgid ""
+"If you choose a custom background image here, it will be used instead of the "
+"above selected premade background image."
+msgstr ""
+
+#: ../classes/Redux/Config.php:477
+msgid "Show WordPress Logo"
+msgstr ""
+
+#: ../classes/Redux/Config.php:478
+msgid ""
+"Switching this to &raquo;Hide&laquo; allows you to hide the default "
+"WordPress logo."
+msgstr ""
+
+#: ../classes/Redux/Config.php:481
+msgid "Show"
+msgstr ""
+
+#: ../classes/Redux/Config.php:482
+msgid "Hide"
+msgstr ""
+
+#: ../classes/Redux/Config.php:487
+msgid "Logo Color"
+msgstr ""
+
+#: ../classes/Redux/Config.php:488
+msgid ""
+"Choose whether you want the logo to be displayed in black, medium gray or "
+"white."
+msgstr ""
+
+#: ../classes/Redux/Config.php:500
+msgid "Logo Link URL"
+msgstr ""
+
+#: ../classes/Redux/Config.php:501
+msgid ""
+"By default, the WordPress logo links back to wordpress.org. However, you may "
+"change the destination of this link here."
+msgstr ""
+
+#: ../classes/Redux/Config.php:505
+msgid "Please enter a valid url"
+msgstr ""
+
+#: ../classes/Redux/Config.php:524
+msgid "Custom CSS Rules"
+msgstr ""
+
+#: ../classes/Redux/Config.php:525
+msgid ""
+"This code will be included on the &raquo;Login&laquo; page, aswell as on the "
+"&raquo;Register&laquo; and &raquo;Forgot Password&laquo; pages. Entering "
+"your custom CSS here, allows you to easily modify the look and feel of the "
+"login pages even further."
+msgstr ""
+
+#: ../classes/Redux/Config.php:568
+msgid "Photos / Backgrounds"
+msgstr ""
+
+#: ../classes/Redux/Config.php:575
+msgid "Code"
+msgstr ""
+
+#: ../views/credits/code.php:2
+msgid "Options Panel"
+msgstr ""
+
+#: ../views/credits/code.php:3
+msgid "Powered by <a href=\"http://reduxframework.com\">Redux Framework</a>"
+msgstr ""
+
+#: ../views/credits/photos.php:5 ../views/credits/photos.php:10
+#: ../views/credits/photos.php:15 ../views/credits/photos.php:20
+#: ../views/credits/photos.php:25 ../views/credits/photos.php:30
+#: ../views/credits/photos.php:35 ../views/credits/photos.php:40
+#: ../views/credits/photos.php:45 ../views/credits/photos.php:50
+#: ../views/credits/photos.php:55 ../views/credits/photos.php:60
+#: ../views/credits/photos.php:65
+msgid "By"
+msgstr ""
+
+#: ../views/credits/photos.php:69
+msgid ""
+"Backgrounds listed in order of appearance within the General Options tab."
+msgstr ""
+
+#: ../views/documentation/documentation.php:3
+msgid "Getting Started"
+msgstr ""
+
+#: ../views/documentation/documentation.php:5
+msgid ""
+"Getting started with Hipster Login is really easy. Just upload and activate "
+"the plugin, and you're ready to go. No more steps needed."
+msgstr ""
+
+#: ../views/documentation/documentation.php:8
+msgid ""
+"Upload the <code>hipsterlogin.zip</code> file using the WordPress plugin "
+"installer."
+msgstr ""
+
+#: ../views/documentation/documentation.php:9
+msgid "Activate the plugin."
+msgstr ""
+
+#: ../views/documentation/documentation.php:10
+msgid ""
+"Have a look at the configuration options under &raquo;Settings&laquo; / "
+"&raquo;Hipster Login&laquo;, choose a premade design and customize "
+"everything to your needs."
+msgstr ""
+
+#: ../views/documentation/documentation.php:11
+msgid ""
+"Optional: Enter your Envato Market Purchase Code under the &raquo;Automatic "
+"Updates&laquo; tab to activate automatic plugin updates."
+msgstr ""
+
+#: ../views/documentation/documentation.php:12
+msgid "Enjoy your awesome new login page."
+msgstr ""
+
+#: ../views/documentation/documentation.php:15
+msgid "Customizing"
+msgstr ""
+
+#: ../views/documentation/documentation.php:17
+msgid ""
+"Within it's plugin options, &raquo;Hipster Login&laquo; allows you to change "
+"some major style variables which can alter the look and feel of your new "
+"login page completely. This let's you customize the page just the way you "
+"want it."
+msgstr ""
+
+#: ../views/documentation/documentation.php:20
+msgid ""
+"Just play around with all the available options under the &raquo;General "
+"Options&laquo; and &raquo;Logo Options&laquo; tabs. Every option is "
+"explained in detail, there. Also, &raquo;Hipster Login&laquo; comes with a "
+"handful of handy presets. Simply visit the &raquo;Premade Designs&laquo; tab "
+"and choose the one you like most."
+msgstr ""
+
+#: ../views/documentation/documentation.php:23
+msgid ""
+"If you want to add your own, custom, CSS code to the login page, &raquo;"
+"Hipster Login&laquo; has you covered, too. Just give the &raquo;Custom "
+"CSS&laquo; tab a try."
+msgstr ""
+
+#: ../views/documentation/documentation.php:26
+msgid "Help & Support"
+msgstr ""
+
+#: ../views/documentation/documentation.php:28
+msgid ""
+"If you encounter any difficulties or issues, something breaks or you just "
+"don't know how to proceed, then please don't hesitate to get in touch!"
+msgstr ""
+
+#: ../views/documentation/documentation.php:31
+#, php-format
+msgid "Have a look at the %sknowledge base%s"
+msgstr ""
+
+#: ../views/documentation/documentation.php:32
+#, php-format
+msgid "Send a support request %svia CodeCanyon%s"
+msgstr ""
+
+#: ../views/documentation/documentation.php:33
+#, php-format
+msgid "Send a %sTweet%s"
+msgstr ""
+
+#: ../views/notices/framework.php:10
+#, php-format
+msgid ""
+"Hipster Login requires <strong>ReduxFramework 3.3.8.3</strong> or newer. You "
+"are currently using ReduxFramework %s. Please update your version of the "
+"ReduxFramework plugin. %sMore Info%s"
+msgstr ""
+
+#: ../views/notices/legacy.php:10
+#, php-format
+msgid ""
+"Hipster Login requires <strong>PHP 5.3.0</strong> or newer. You are "
+"currently using PHP %s. Why don't you try contacting your hosting provider "
+"and ask for an upgrade?"
+msgstr ""

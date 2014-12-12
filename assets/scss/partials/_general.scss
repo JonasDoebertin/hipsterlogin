@@ -1,0 +1,164 @@
+
+/*
+    General page base styling
+ */
+body{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+/*
+    Vertical Centering
+ */
+.table {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+    .table__cell {
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+
+#login {
+    max-width: 100%;
+    width: 320px;
+    margin: 0 auto;
+}
+
+
+/*
+    WordPress logo
+ */
+.login h1{
+    margin: 0 0 25px 0;
+    overflow: hidden;
+
+    a{
+        width: auto;
+        display: inline-block;
+        margin: 0 auto;
+        padding: 0;
+        text-indent: -9999px;
+        outline: 0;
+        overflow: hidden;
+    }
+}
+
+
+/*
+    Title
+ */
+.title {
+    font-weight: 600;
+    text-align: center;
+    color: inherit;
+    font-size: 24px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+/*
+    Message/Hint
+ */
+.message{
+    font-weight: normal;
+    text-align: left;
+    color: inherit;
+    font-size: inherit;
+    line-height: 1.5;
+    margin: 0;
+}
+
+    .message a{
+        color: inherit;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+
+/*
+    login/register/reset form
+ */
+form{
+
+    p{
+        margin: 0 0 20px;
+    }
+
+    label{
+        display: block;
+        cursor: pointer;
+    }
+
+}
+
+    input[type=text],
+    input[type=password],
+    input[type=email]{
+        margin: 10px 0 0;
+        padding: 10px 20px;
+        border: 0;
+        width: 100%;
+        background: none;
+        transition: background .3s ease;
+        font-size: 20px;
+        font-size: 1.25rem;
+
+        &:focus{
+            outline: 0;
+            background: rgba(255, 255, 255, .1);
+        }
+    }
+
+    .submit{
+        border-bottom: none;
+        margin-bottom: 0;
+        overflow: hidden;
+    }
+
+        input[type=submit]{
+            border: none;
+            background: none;
+            font-size: 2rem;
+            padding: 10px 20px;
+            transition: background .3s ease;
+            outline: none;
+
+            &:hover{
+                animation: button 4s infinite ease-in-out;
+                animation-delay: .5s;
+            }
+        }
+
+
+/*
+    Register/Login/Lost your Password? navigation
+ */
+#nav{
+    text-align: center;
+
+    a{
+        color: inherit;
+        display: inline-block;
+        text-decoration: none;
+
+        &:first-child{
+            margin-right: 10px;
+        }
+
+        &:last-child{
+            margin-left: 10px;
+        }
+    }
+}
+
+/*
+    Back to {site}
+ */
+#backtoblog{
+    display: none;
+}

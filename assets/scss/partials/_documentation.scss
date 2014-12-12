@@ -1,0 +1,38 @@
+
+.hipsterlogin__documentation {
+
+    h4 {
+        font-size: 1.1em !important;
+        margin-top: 2em !important;
+        margin-bottom: 2em !important;
+    }
+
+    p {
+        margin-top: 0 !important;
+        margin-bottom: 1em !important;
+    }
+
+    ul, ol {
+        margin-top: 0 !important;
+        margin-bottom: 1em !important;
+        margin-left: 2em !important;
+
+        li {
+            margin-bottom: 0.5em !important;
+
+            &:last-child {
+                margin-bottom: 0 !important;
+            }
+        }
+    }
+
+    ul {
+        list-style: square inside !important;
+    }
+
+    ol {
+        list-style: decimal inside !important;
+    }
+
+
+}

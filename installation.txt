@@ -1,0 +1,27 @@
+Hipster Login 1.0.0
+Copyright by Jonas Döbertin
+Available only at CodeCanyon: http://codecanyon.net/user/jdpowered
+
+
+1. Installation
+---------------------------------------------------------------------------------------------- */
+
+To install Hipster Login, simply follow these steps:
+
+	(1) Login to your WordPress site and navigate to the admin page "Plugins > Add new".
+
+	(2) Select "Upload" from the available options.
+
+	(3) Select the zip file "hipsterlogin.zip" and click "Install now".
+		WordPress will upload and install the plugin for you.
+
+	(4) After the installation has finished, click "Activate Plugin" to enable Hipster Login.
+
+	(5) That's it!
+
+
+2. Configuration
+---------------------------------------------------------------------------------------------- */
+
+	Navigate to "Settings > Hipster Login" and choose the "Documentation" tab to
+	get more information about how to use and set up Hipster Login.

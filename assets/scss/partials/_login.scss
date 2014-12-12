@@ -1,0 +1,21 @@
+
+.forgetmenot {
+    border-bottom: none;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+
+    .forgetmenot label {
+        display: inline-block;
+        float: right;
+        transition: background .3s ease;
+        padding: 10px;
+
+        &.checked {
+            background: rgba(255, 255, 255, .1);
+        }
+    }
+
+    .forgetmenot input {
+        display: none;
+    }
