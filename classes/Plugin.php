@@ -40,11 +40,6 @@ class Plugin {
 	public function __construct()
     {
 		/*
-			Initialize Updater
-		 */
-		$this->updater = new Updater('http://wp-updates.com/api/2/plugin', JD_HIPSTERLOGIN_BASENAME, Helper::getConfigValue('purchase_code', ''));
-
-		/*
 			Initialize CSS Compiler
 		 */
 		$this->compiler = new Compiler;
@@ -66,6 +61,11 @@ class Plugin {
 			Load Redux framework and apply configuration
 		 */
 		$this->config = new ReduxConfig;
+
+		/*
+			Initialize Updater
+		*/
+		$this->updater = new Updater('http://wp-updates.com/api/2/plugin', JD_HIPSTERLOGIN_BASENAME, Helper::getConfigValue('purchase_code', ''));
 
 		/*
 			Set custom login and error messages
@@ -328,7 +328,7 @@ class Plugin {
 	 */
 	public function modifyHeaderUrl($url)
 	{
-		if($customUrl = Helper::getConfigValue('logo_link', false))
+		if($customUrl = Helper::getConfigValue('logo_link', null, false))
 		{
 			return $customUrl;
 		}

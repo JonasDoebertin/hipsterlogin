@@ -3,9 +3,9 @@
 
 /*
 	Plugin Name:   Hipster Login
-	Plugin URI:    http://codecanyon.net/user/jdpowered?ref=jdpowered
+	Plugin URI:    http://codecanyon.net/item/hipster-login-fullscreen-wordpress-login-page/9273815?ref=jdpowered
 	Description:   Hipster Login let’s you change your boring WordPress login page into a beautiful, full-screen background login experience in literally 1 minute. You can customize everything: fonts, background images, etc.
-	Version:       1.0.0
+	Version:       1.0.1
 	Author:        Jonas Döbertin
 	Author URI:    http://codecanyon.net/user/jdpowered?ref=jdpowered
  */

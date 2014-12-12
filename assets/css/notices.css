@@ -1,5 +1,5 @@
 /*!
- * Hipster Login 1.0.0
+ * Hipster Login 1.0.1
  * (c) 2014 by Jonas Döbertin
  *
  * Available only at CodeCanyon!

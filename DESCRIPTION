@@ -1,11 +1,10 @@
-
 <p><a href="http://twitter.com/DieserJonas" title="Follow me on Twitter"><img src="http://jd-daten.de/envato/button-left-twitter.png" alt="Follow me on Twitter - News, Updates & more"/></a><a href="http://themeforest.net/user/jdpowered/follow" title="Follow me on Envato Market - New Themes and Plugins"><img src="http://jd-daten.de/envato/button-right-envato.png" alt="Follow me on Envato Market"/></a></p>
 
 
 <p>Hipster Login let’s you change your boring WordPress login page into a modern and beautiful, full-screen background login experience in literally 1 minute. With more than 50 options for you to play with, you can customize nearly everything: fonts, background colors & images, colors, spacings, etc.</p>
 
+
 <p><img src="http://jd-daten.de/envato/item-hipsterlogin-features.png" alt=""/></p>
-<p><img src="http://jd-daten.de/envato/item-hipsterlogin-features-graphic.png" alt=""/></p>
 <h3>Features</h3>
 <ul>
     <li>Stunning fullscreen background Login Pages</li>
@@ -32,6 +31,21 @@
 
 
 <h3>Updates</h3>
+<strong>Version 1.0.1</strong><br/>
+<ul>
+    <li>
+        <strong>Changes</strong>
+        <ul>
+            <li>Updated ReduxFramework to 3.3.9.4</li>
+        </ul>
+    </li>
+    <li>
+        <strong>Bugfixes</strong>
+        <ul>
+            <li>Fixed a bug resulting in wrong custom logo links</li>
+        </ul>
+    </li>
+</ul>
 <strong>Version 1.0.0</strong><br/>
 <ul>
     <li>

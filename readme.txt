@@ -3,7 +3,7 @@ Contributors: JonasDoebertin
 Tags: login, register, signup, customization
 Requires at least: 3.9
 Tested up to: 4.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: Envato Market
 License URI: http://codecanyon.net/licenses
 
@@ -25,6 +25,16 @@ To install Hipster Login, simply follow these steps:
 
 == Changelog ==
 
+= Version 1.0.1 =
+
+**Changes**
+
+* Updated ReduxFramework to 3.3.9.4
+
+**Bugfixes**
+
+* Fixed a bug resulting in wrong custom logo links
+
 = Version 1.0.0 =
 
 **Additional Notes**
@@ -32,6 +42,9 @@ To install Hipster Login, simply follow these steps:
 * Initial Release
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Updated Options Panel Framework and Bugfixes
 
 = 1.0.0 =
 Initial Release

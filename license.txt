@@ -1,6 +1,6 @@
-Hipster Login 1.0.0
+Hipster Login 1.0.1
 Copyright by Jonas Döbertin
-Available only at CodeCanyon: http://codecanyon.net/user/jdpowered
+Available only at CodeCanyon: http://codecanyon.net/item/hipster-login-fullscreen-wordpress-login-page/9273815
 
 
 1. License
