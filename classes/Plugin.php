@@ -328,7 +328,7 @@ class Plugin {
 	 */
 	public function modifyHeaderUrl($url)
 	{
-		if($customUrl = Helper::getConfigValue('logo_link', false))
+		if($customUrl = Helper::getConfigValue('logo_link', null, false))
 		{
 			return $customUrl;
 		}
