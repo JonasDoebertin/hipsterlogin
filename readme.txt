@@ -2,8 +2,8 @@
 Contributors: JonasDoebertin
 Tags: login, register, signup, customization
 Requires at least: 3.9
-Tested up to: 4.0
-Stable tag: 1.0.1
+Tested up to: 4.1
+Stable tag: 1.0.2
 License: Envato Market
 License URI: http://codecanyon.net/licenses
 
@@ -25,6 +25,12 @@ To install Hipster Login, simply follow these steps:
 
 == Changelog ==
 
+= Version 1.0.2 =
+
+**Changes**
+
+* Enabled support for font subsets
+
 = Version 1.0.1 =
 
 **Changes**
@@ -42,6 +48,9 @@ To install Hipster Login, simply follow these steps:
 * Initial Release
 
 == Upgrade Notice ==
+
+= 1.0.2 =
+Now supports font subsets
 
 = 1.0.1 =
 Updated Options Panel Framework and Bugfixes
