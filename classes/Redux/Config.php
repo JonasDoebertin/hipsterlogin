@@ -375,7 +375,7 @@ class Config {
                 'line-height' => false,
                 'text-align'  => false,
                 'units'       =>'px',
-                'subsets'     => false,
+                'subsets'     => true,
                 'google'      => true,
                 'color'       => true,
                 'default'     => array(
