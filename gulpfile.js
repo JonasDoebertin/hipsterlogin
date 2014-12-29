@@ -14,6 +14,7 @@ var releasePaths = [
     '!{node_modules,node_modules/**}',
     '!assets/{scss,scss/**}',
     '!assets/{_js,_js/**}',
+    '!.DS_Store',
     '!.gitignore',
     '!composer.json',
     '!composer.lock',
